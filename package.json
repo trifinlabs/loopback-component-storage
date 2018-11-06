@@ -15,7 +15,7 @@
     "async": "^2.6.1",
     "debug": "^3.1.0",
     "formidable": "^1.2.1",
-    "pkgcloud": "^1.5.0",
+    "pkgcloud": "https://github.com/trifinlabs/pkgcloud#semver:^1.5.0",
     "strong-globalize": "^4.1.1",
     "uuid": "^3.2.1"
   },
